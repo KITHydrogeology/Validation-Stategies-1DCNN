@@ -11,5 +11,5 @@ ORCIDs of authors:
 - M. Wetzel: 0000-0002-2289-2156
 - S. Kunz: 0000-0001-7074-1865
 - S. Broda: 0000-0001-6858-6368
--
-- The scripts stored here were used in an Anaconda environment on Tensorfow running with GPU-Support. To reproduce the corresponding environment, the instructions in Create_Environment.txt should be followed.
+
+The scripts stored here were used in an Anaconda environment on Tensorfow running with GPU-Support. To reproduce the corresponding environment, the instructions in Create_Environment.txt should be followed.
