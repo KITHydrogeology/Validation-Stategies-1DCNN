@@ -15,3 +15,5 @@ ORCIDs of authors:
 - S. Broda: 0000-0001-6858-6368
 
 The scripts stored here were used in an Anaconda environment on Tensorfow running with GPU-Support. To reproduce the corresponding environment, the instructions in Create_Environment.txt should be followed.
+
+The necessary codes for training, validating and testing the model can be found under Validate_1DNN. The error metrics and the time series plots can be created with the codes under Evaluate_results.
