@@ -2,7 +2,9 @@
 
 This repository contains the necessary code to train and validate the 1D-CNN model from the submitted paper:
 
-Doll, F., Liesch, T., Wetzel, M., Kunz, S., Borda, S.: Validation Strategies for Deep Learning-Based Groundwater Level Time Series Prediction Using Exogenous Meteorological Input Features Contact: Fabienne.Doll@kit.edu
+Doll, F., Liesch, T., Wetzel, M., Kunz, S., Borda, S.: Validation Strategies for Deep Learning-Based Groundwater Level Time Series Prediction Using Exogenous Meteorological Input Features
+
+Contact: Fabienne.Doll@kit.edu
 
 ORCIDs of authors:
 
