@@ -16,7 +16,10 @@ ORCIDs of authors:
 
 The scripts stored here were used in an Anaconda environment on Tensorfow running with GPU-Support. To reproduce the corresponding environment, the instructions in Create_Environment.txt should be followed.
 
-The necessary codes for training, validating and testing the models can be found under validate_and_test_model. The error metrics can be calculated with the codes under Evaluate_results.
+Necessary codes for training, validating and testing the models can be found under validate_and_test_model. The error metrics can be calculated with the codes under Evaluate_results.
+
+The results presented in the paper are stored in the zip archive Results_1DCNN_LSTM.zip.
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
