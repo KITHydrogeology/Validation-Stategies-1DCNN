@@ -1,4 +1,4 @@
-# Validation Strategies for Deep Learning-Based Groundwater Level Time Series Prediction
+# Validation Strategies for Deep Learning-Based Groundwater Level Time Series Prediction Using Exogenous Meteorological Input Features
 
 This repository contains the necessary code to train and validate the 1D-CNN or LSTM model from the submitted paper:
 
