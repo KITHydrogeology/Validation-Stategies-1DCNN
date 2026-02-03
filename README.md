@@ -16,7 +16,7 @@ ORCIDs of authors:
 
 The scripts stored here were used in an Anaconda environment on Tensorfow running with GPU-Support. To reproduce the corresponding environment, the instructions in Create_Environment.txt should be followed.
 
-The necessary codes for training, validating and testing the model can be found under Validate_1DNN. The error metrics and the time series plots can be created with the codes under Evaluate_results.
+The necessary codes for training, validating and testing the models can be found under validate_and_test_model. The error metrics can be calculated with the codes under Evaluate_results.
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
