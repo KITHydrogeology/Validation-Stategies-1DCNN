@@ -24,7 +24,7 @@ import result_processing as res_proces
 #%%
 experiment = 'CNN'
 
-exp = Path(f'../Results_models/{experiment}')
+exp = Path(f'../Results_1DCNN_LSTM/{experiment}')
 
 sid = pd.read_csv('../ids_wells.csv', index_col=0, sep=';')
 
@@ -138,6 +138,7 @@ stat.to_csv(exp/f'stat_scores_{experiment}.csv', sep=';', decimal=',')
 #scores for non-stationary timeseries 
 nonstat = df[(df.index > 50) & (df.index <= 100)]
 nonstat.to_csv(exp/f'nonstat_scores_{experiment}.csv', sep=';', decimal=',')
+
 
 
 
